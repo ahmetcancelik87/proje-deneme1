@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('/background_image.jpg');
+color:white
+}
+#container {
+  background-color: rgb(0,0,0,0.95);
+  width: 250px;
+  color:white
+}
+.ilk{
+  width:70%;
+   background-color: rgb(0,0,0,0.5);
+   margin-left: 180px;
+   margin-bottom: 100px;
+  }
+#container .box input.name-age-email {
+  display: block;
+}
+.box {
+  padding: 5px;
+}
+#survey-form .box input{
+  width: 80%;
+  height: 25px;
+}
+#title {
+  text-align: center;
+}
+#description {
+  text-align: center;
+}
+#container {
+  margin: auto;
+}
+span{
+  color: red;
+}
+.submit{
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid red;
+  border-radius: 10px;
+  background-color: red;
+  color:white
+}
+
+
+
+
